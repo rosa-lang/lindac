@@ -1,0 +1,3 @@
+program = { SOI ~ identifier ~ EOI }
+
+identifier = { ";" }
